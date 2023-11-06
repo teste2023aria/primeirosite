@@ -1,0 +1,61 @@
+
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+}
+
+header {
+background-color: #333;
+color: white;
+padding: 10px 0;
+text-align: center;
+}
+
+nav ul {
+list-style-type: none;
+padding: 0;
+}
+
+nav ul li {
+display: inline;
+margin: 0 20px;
+}
+
+nav ul li a {
+ color: white;
+ text-decoration: none;
+ transition: 0.3s ease;
+}
+
+nav ul li a:hover {
+color: #ff9900;
+}
+
+main {
+padding: 50px;
+text-align: center;
+}
+
+.destaque {
+ background-color: #ff9900;
+ color: white;
+ padding: 20px;
+}
+
+section {
+margin-bottom: 40px;
+}
+
+footer {
+background-color: #333;
+color: white;
+padding: 20px 0;
+text-align: center;
+}
+
+.card-group{
+    background-color: aqua;
+}
+
